@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Hussu의 데이터 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "조건"
+name                     : "Kun Joe"
 description              : "Datascience"
 url                      : "https://Hussu-Joe.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
