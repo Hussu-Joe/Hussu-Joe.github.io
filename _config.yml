@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Hussu의 데이터 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Kun Joe"
-description              : "Datascience"
+name                     : Cat Kun Joe
+description              : Cat Website of cat-joekun
 url                      : "https://Hussu-Joe.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
