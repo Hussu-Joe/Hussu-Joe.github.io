@@ -20,7 +20,7 @@ title                    : "Hussu의 데이터 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "조건"
-description              : "다양한 데이터들을 살펴보고 분석하는 블로그"
+description              : "Datascience"
 url                      : "https://Hussu-Joe.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
