@@ -6,13 +6,18 @@ layout: single
 ---
 
 # Education
-## Bachelor's degree
-### Economics, Ajou University
 
-## Master's degree
-### Data Science, Ajou University
+![aa](./images.jpg)
+
+### Bachelor's degree
+#### Economics, Ajou University
+
+### Master's degree
+#### Data Science, Ajou University
+
+
 
 
 ```python
-"./"
+"./사진"
 ```
