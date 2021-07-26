@@ -9,10 +9,10 @@ layout: single
 
 ![aa](/assets/images/ajou.jpg)
 
-### Bachelor's degree
+### - Bachelor's degree
 #### Economics, Ajou University
 
-### Master's degree
+### - Master's degree
 #### Data Science, Ajou University
 
 # Professional Experience
