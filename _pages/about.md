@@ -7,7 +7,7 @@ layout: single
 
 # Education
 
-![aa]("/assets/images/bio.jpg")
+![aa](/assets/images/bio.jpg)
 
 ### Bachelor's degree
 #### Economics, Ajou University
