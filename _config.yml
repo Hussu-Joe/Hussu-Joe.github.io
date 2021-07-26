@@ -290,6 +290,8 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "posts"
       
   # _pages
   - scope:
@@ -301,15 +303,15 @@ defaults:
   # _docs
   - scope:
       path: ""
-      type: posts
+      type: docs
     values:
-#       layout: single
-#       read_time: false
-#       author_profile: false
-#       share: false
-#       comments: false
-      sidebar:
-        nav: "posts"
+      layout: single
+      read_time: false
+      author_profile: false
+      share: false
+      comments: false
+#       sidebar:
+#         nav: "posts"
   # _recipes
   - scope:
       path: ""
