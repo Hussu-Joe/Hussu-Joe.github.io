@@ -12,9 +12,8 @@ main:
 #     url: /sitemap/
 
   
-main-sidebar:
-  - title: "데이터 분석"
-    url: "/데이터분석/"
+sidebar:
+  - title: "Contents"
 #     children:
 #     - title: "Computer"
 #       url: "/computing/computer/"
