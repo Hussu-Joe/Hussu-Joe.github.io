@@ -13,7 +13,8 @@ main:
 
   
 sidebar:
-  - title: "Contents"
+  title: "Contents"
+  nav: sidebar-sample
 #     children:
 #     - title: "Computer"
 #       url: "/computing/computer/"
