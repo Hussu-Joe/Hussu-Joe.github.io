@@ -25,13 +25,13 @@ layout: single
 ### - SQL
 
 # Interest
-### Time Series
-### Econometrics
-### Linear Regression(Multivariate, Singular)
-### Financial Data
-### Meteorogical Data
-### Energy Data
-### Visualization
-### Deep Learning
-### Machine Learning
-### Scaling
+### - Time Series
+### - Econometrics
+### - Linear Regression(Multivariate, Singular)
+### - Financial Data
+### - Meteorogical Data
+### - Energy Data
+### - Visualization
+### - Deep Learning
+### - Machine Learning
+### - Scaling
