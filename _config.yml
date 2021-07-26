@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Kun Joe"
 description              : "데이터 블로그"
 url                      : "https://Hussu-Joe.github.io"
-baseurl                  : "/"
+baseurl                  : # "/"
 repository               : #"Huss-Joe/Hussu-Joe.github.io"
 teaser                   : "/assets/images/teaser.png"
 logo                     : "/assets/images/logo.png"
