@@ -15,5 +15,5 @@ main:
 posts:
   - title: Contents
     children:
-      - title: ""
+      - title: "데이터 분석"
         url: /categories/#데이터분석
