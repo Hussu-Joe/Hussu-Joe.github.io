@@ -12,8 +12,8 @@ main:
 #     url: /sitemap/
 
   
-docs:
-  - title: Getting Started
+posts:
+  - title: Contents
     children:
-      - title: "Quick-Start Guide"
+      - title: ""
         url: /categories/#데이터분석
