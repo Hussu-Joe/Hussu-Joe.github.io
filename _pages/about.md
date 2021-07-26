@@ -5,7 +5,7 @@ layout: single
 
 ---
 
-# Education
+# 1. Education
 
 ![aa](/assets/images/ajou.jpg)
 
@@ -15,16 +15,16 @@ layout: single
 ### - Master's degree
 #### Data Science, Ajou University
 
-# Professional Experience
+# 2. Professional Experience
 ### - 아주대학교 통계학 랩실(2017.9 ~ 2019.8)
 ### - 솔라커넥트(2019.12 ~ Present)
 
-# Programing Skill
+# 3. Programing Skill
 ### - Python(Tensorflow, Pytorch)
 ### - R
 ### - SQL
 
-# Interest
+# 4. Interest
 ### - Time Series
 ### - Econometrics
 ### - Linear Regression(Multivariate, Singular)
