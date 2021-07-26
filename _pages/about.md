@@ -16,8 +16,8 @@ layout: single
 #### Data Science, Ajou University
 
 # Professional Experience
-### 아주대학교 통계학 랩실(2017.9 ~ 2019.8)
-### 솔라커넥트(2019.12 ~ Present)
+### - 아주대학교 통계학 랩실(2017.9 ~ 2019.8)
+### - 솔라커넥트(2019.12 ~ Present)
 
 # Programing Skill
 ### - Python(Tensorflow, Pytorch)
