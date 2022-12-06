@@ -20,7 +20,7 @@ codekit-config.json
 
 # macOS
 .DS_Store
-
+.ipynb
 # Jekyll generated files
 .jekyll-cache
 .jekyll-metadata
